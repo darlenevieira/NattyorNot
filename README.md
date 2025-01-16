@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Uma Influencer de Mau Humor
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia é criar um pequeno vídeo com falas de uma suposta influencer de mau humor, inspirada na Wednesday da Família Adams.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o Chat-GPT para criar o roteiro e a plataforma Vidnoz para criar o vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro tive que encontrar uma plataforma que facilitasse a criação do meu conteúdo. Tive um pouco de dificuldade com a plataforma sugerida pela DIO e o meu tempo está se esgotando para finalizar o curso. O prazo é amanhã até 17:30h se não me engano e eu trabalho o dia todo. Preciso finalizar hoje.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Consegui um ótimo texto e o vídeo também ficou razoavelmente "natty"... hahaha... vou compartilhá-lo com a equipe DIO.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Percebi que a IA está se desenvolvendo exponencialmente, mas ainda precisamos avançar mais um pouco antes de conseguir um conteúdo perfeito. Isso me parece uma realidade muito próxima, mas temos realmente que nos preocupar com questões éticas pois, infelizmente, existe muuuuuita gente por aí que aprende perfeitamente bem para usar a tecnologia para o mal. 
+
 
 ### Exemplos e Insigths
 
